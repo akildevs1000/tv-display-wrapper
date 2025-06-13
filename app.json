@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "Tv Display",
+    "slug": "tv-display",
+    "version": "1.0.0",
+    "orientation": "landscape",
+    "platforms": [
+      "android"
+    ],
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "userInterfaceStyle": "light",
+    "webview": {},
+    "android": {
+      "package": "com.francis.webviewapp",
+      "versionCode": 1,
+      "permissions": []
+    },
+    "extra": {
+      "eas": {
+        "projectId": "49a6c26a-a91f-4354-9740-9f711dd8749f"
+      }
+    }
+  }
+}
