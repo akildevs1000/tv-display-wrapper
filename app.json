@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Tv Display",
-    "slug": "tv-display",
+    "name": "Guest App",
+    "slug": "guestApp",
     "version": "1.0.0",
     "orientation": "landscape",
     "platforms": [
